@@ -43,14 +43,6 @@ capacity to.
 #### https://www.seek.com.au/job/56396722?type=standout#sol=f944aeb9494f661a5b889d2a7ef2673330287550
 
 
-
-#### A description of the position, and particularly what makes this position appealing to you:
-The Web designer/developer position that is present from the above link focuses on using skills and qualifications such as Java, HTML and web design to be able to optimize the website for maximum visibility, speed and scalability to appeal to the user. This position appealed to me because I have always been interested in the unique design of websites and how they make it more simple for consumers to be negative. Being able to construct websites myself has always been something that I have always been interested in.
-
-
-#### A description (in your own words) of the position, and particularly what makes this position Appeals to you:
-This position as a web designer/developer appeals to me because it doesn't just focus on the aspect of web design alone, but also on improving on the performance of the website and ensuring that the traffic that is coming to the website is analyst and customer feedback is taken into consideration to better improve that website so that it will attract more traffic toward the website.
-
 #### Describtions of job and appeal
 In this job, you’re expected to be able to develop and engineer new web platforms. You’re also expected to 
 write, test and maintain code to ensure all programs work smoothly to meet the clients requirements. This
