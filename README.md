@@ -103,14 +103,16 @@ Mate is a software designed for a mobile device with the intention to connect pe
 
 
 #### Motivation: 
-     Being an introvert myself, I know that’s it can be hard to meet new people and even harder to find 
+ Being an introvert myself, I know that’s it can be hard to meet new people and even harder to find 
      people with similar interests. During my time in lockdown, finding people with similar hobbies and
      interests was challenging which motivate me to create this software which aims to help people create
      meaningful or just casual social relationships and encourage people to socialise with each other.
 
 
+
+
 #### Description: 
-     One of the thing that’s differentiate Mate from other social platforms currently on the market
+ One of the thing that’s differentiate Mate from other social platforms currently on the market
      that it isn't  just exclusive to dating. The goal of Mate is to connect people with similar interests no matter
      it is. Things such as sports, hobbies, and other interests are included. The app interface will be similar to 
      tinders where you first sign up and make a profile. Making a profile in Mate is essential because this is 
@@ -134,6 +136,10 @@ Mate is a software designed for a mobile device with the intention to connect pe
      can achieve these certain goals. The application won’t be just limiting to texting and users will be able to 
     call each other and even video call. With all these features, the goal of Mate is to link like minded 
     individuals and hope to help people build relationships.
+
+
+
+
 
 
 
